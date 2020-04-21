@@ -1,7 +1,7 @@
 # Write your code here
-x = 10
-while x > 0 do
-  puts (x)
-  x -= 1
+count = 10
+while count > 0 do
+  puts count
+  count -= 1
 end
-puts "Happy New  Year!"
+puts "Happy New Year!"
